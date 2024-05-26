@@ -80,6 +80,7 @@
 
 @media(max-width:800px){
     .shopcategory-banner{
+        margin: 70px  auto;
         
         width: 95%;
     }
@@ -100,6 +101,10 @@
 
 
 @media(max-width:500px){
+
+    .shopcategory-banner{
+        margin: 70px  auto;
+    }
     .shopcategory-products{
       grid-template-columns: 1fr 1fr;
     }
